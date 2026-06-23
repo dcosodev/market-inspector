@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Inspector Context"
+  short_description: "Project scope and Kaggle alignment"
+  default_prompt: "Use $market-inspector-context to align this task with the Market Inspector Kaggle scope."

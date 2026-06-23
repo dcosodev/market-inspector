@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gemini Integration"
+  short_description: "Prompts, model calls, and quota safety"
+  default_prompt: "Use $gemini-integration to change Market Inspector Gemini behavior safely."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Conventions"
+  short_description: "TypeScript, Next.js, tests, and docs"
+  default_prompt: "Use $code-conventions to implement this Market Inspector change cleanly."

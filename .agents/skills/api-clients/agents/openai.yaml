@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Clients"
+  short_description: "Market data providers and fallbacks"
+  default_prompt: "Use $api-clients to implement or review a Market Inspector data source."

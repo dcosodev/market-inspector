@@ -1,0 +1,4 @@
+interface:
+  display_name: "shadcn Usage"
+  short_description: "Dashboard UI and design-system rules"
+  default_prompt: "Use $shadcn-usage to design or review the Market Inspector dashboard UI."

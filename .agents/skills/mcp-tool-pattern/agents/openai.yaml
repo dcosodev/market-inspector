@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Tool Pattern"
+  short_description: "Read-only MCP tool implementation"
+  default_prompt: "Use $mcp-tool-pattern to add or review a Market Inspector MCP tool."

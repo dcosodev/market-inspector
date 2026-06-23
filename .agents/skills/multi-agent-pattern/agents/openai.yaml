@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Agent Pattern"
+  short_description: "Agent pipeline and orchestration rules"
+  default_prompt: "Use $multi-agent-pattern to work on Market Inspector agent behavior."

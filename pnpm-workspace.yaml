@@ -1,0 +1,6 @@
+# Native build scripts are skipped for these packages (not needed at runtime
+# on the serverless target). Single source of truth lives in package.json's
+# "pnpm" field; this file is kept minimal to avoid conflicting declarations.
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver

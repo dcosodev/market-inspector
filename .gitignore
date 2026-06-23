@@ -1,0 +1,57 @@
+# ===== Private dev workspace (never pushed to GitHub) =====
+00-meta/
+01-prompts/
+02-skills/
+
+# ===== Local pnpm cache =====
+.pnpm-store/
+
+# ===== Standard Node.js =====
+node_modules/
+.pnpm-store/
+
+# ===== Next.js =====
+.next/
+out/
+build/
+dist/
+
+# ===== Environment =====
+.env
+.env.local
+.env.*.local
+
+# ===== Misc =====
+.DS_Store
+*.pem
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ===== Testing =====
+coverage/
+coverage-review/
+
+# ===== Playwright =====
+/playwright-report/
+/test-results/
+/.playwright-mcp/
+
+# ===== Screenshots / captures =====
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# ===== Vercel =====
+.vercel
+
+# ===== Local agent state =====
+.codex/
+.scout/
+
+# ===== TypeScript =====
+*.tsbuildinfo
+next-env.d.ts

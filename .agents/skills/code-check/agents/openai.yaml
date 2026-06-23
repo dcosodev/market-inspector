@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Check"
+  short_description: "Senior review and evaluation gate"
+  default_prompt: "Use $code-check to review this Market Inspector change before publishing."
