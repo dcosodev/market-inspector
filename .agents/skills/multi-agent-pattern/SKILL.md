@@ -1,6 +1,8 @@
 ---
+---
 name: multi-agent-pattern
 description: Design, implement, or review Market Inspector agent behavior: anomaly detection, brief generation, orchestration, streaming updates, state snapshots, agent responsibilities, concurrency, and evaluation of agent outputs. Use for files under lib/agents, app/api/anomalies, app/api/stream, agent docs, and related tests.
+---
 ---
 
 # Multi-Agent Pattern
